@@ -1,0 +1,8 @@
+# ignore user folders and files
+.vs/
+Intermediate/
+Libs/
+*.user
+*.opensdf
+*.sdf
+*.suo
